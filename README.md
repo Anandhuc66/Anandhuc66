@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anandhu  
 
-### 💻 Aspiring Full Stack Developer | .NET & Angular Enthusiast | Building Scalable Web Solutions  
+###  Aspiring Full Stack Developer | .NET & Angular Enthusiast | Building Scalable Web Solutions  
 
 📍 Kochi, Kerala | 💼 Intern at [cydez technologies](#) — Software Developer  
 
