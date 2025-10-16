@@ -41,6 +41,7 @@ Driven by curiosity and a love for problem-solving, I aim to craft impactful dig
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-2C2C32?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
