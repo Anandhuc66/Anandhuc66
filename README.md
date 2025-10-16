@@ -48,19 +48,6 @@ A product catalog with search, filter, and sorting features.
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandhuc&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhuc&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandhuc&theme=tokyonight" alt="GitHub Streak" height="160px"/>
-</p>
-
----
-
 ## 🌱 Currently Learning & Goals  
 
 - Deepening my expertise in **.NET Core**, **Angular**, and **RESTful API** development  
