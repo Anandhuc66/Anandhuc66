@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Full Stack Developer | .NET & Angular Enthusiast | Building Scalable Web Solutions  
 
-📍 Kochi, Kerala | 💼 Intern at [Cydez Technologies](#) — Software Developer  
+📍 Kochi, Kerala | 💼 Intern at [cydez technologies](#) — Software Developer  
 
 ---
 
